@@ -1,21 +1,8 @@
-# Hi, I'm Jessica
+# Jessica Wang
 
-I work at the intersection of machine learning, empirical research, and market analysis.
+Data Science & CS at the University of Michigan, working on quantitative research with market data.
 
-### Featured projects
-- [art_price_predictor](https://github.com/w-jessica-wang/art_price_predictor) — interpretable fine-art auction price prediction with calibrated uncertainty intervals and walk-forward evaluation.
-- [risk_vs_return](https://github.com/w-jessica-wang/risk_vs_return) — pre-registered crypto carry study with measured costs and a sealed holdout.
-
-### About
-I build models that are transparent, calibrated, and grounded in evidence.
-
-### Tools & stack
-Python, pandas, NumPy, scikit-learn, LightGBM, CatBoost
-
-### Connect
-- GitHub: [w-jessica-wang](https://github.com/w-jessica-wang)
-- School/Work: [jesw@umich.edu](mailto:jesw@umich.edu)
-- Personal: [wangjessica.0721@gmail.com](mailto:wangjessica.0721@gmail.com)
-- LinkedIn: [Jessica Wang](https://www.linkedin.com/in/jessica-wang)
-
-> I like research that is rigorous, interpretable, and grounded in evidence.
+- ✅ **Currently working on:** a live forward test of my crypto carry study (through Feb 2027), and deep learning research in UMich's Energy Transport Lab
+- 🌻 **Currently learning:** Bayesian statistics, econometrics, and computer vision
+- 💬 **Fun fact:** I love 2000s-era tech, e.g. MP3, Sony Cyber-shot camera
+- 💤 **Hobbies:** violin, photography, and cryptography
