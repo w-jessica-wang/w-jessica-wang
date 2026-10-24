@@ -1,6 +1,6 @@
 # Jessica Wang
 
-Data Science & CS at the University of Michigan, working on quantitative research with market data.
+Data Science & CS at the University of Michigan, working on quantitative research with alternative data.
 
 - ✅ **Currently working on:** a live forward test of my crypto carry study (through Feb 2027), and deep learning research in UMich's Energy Transport Lab
 - 🌻 **Currently learning:** Bayesian statistics, econometrics, and computer vision
